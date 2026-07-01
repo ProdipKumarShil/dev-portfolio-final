@@ -1,36 +1,182 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🚀 Personal Developer Portfolio
 
-## Getting Started
+A modern, interactive, and high-performance personal developer portfolio built with **Next.js**, **TypeScript**, **Tailwind CSS**, **GSAP**, and **Three.js**.
 
-First, run the development server:
+The goal of this project is to create a visually engaging portfolio that showcases my skills, experience, projects, and creativity while maintaining excellent performance, accessibility, and SEO.
+
+---
+
+## ✨ Features
+
+* ⚡ Built with Next.js App Router
+* 🎨 Modern and responsive UI
+* 🌙 Dark mode support
+* 🎭 Smooth GSAP animations
+* 🌌 Interactive Three.js experiences
+* 📱 Fully responsive across all devices
+* 🚀 Optimized performance
+* 🔍 SEO-friendly
+* ♿ Accessibility best practices
+* 📄 Resume download
+* 📬 Contact form
+* 💼 Featured projects
+* 📈 Experience timeline
+* 🛠️ Skills showcase
+
+---
+
+## 🛠️ Tech Stack
+
+### Framework
+
+* Next.js
+
+### Language
+
+* TypeScript
+
+### Styling
+
+* Tailwind CSS
+
+### Animation
+
+* GSAP
+
+### 3D Graphics
+
+* Three.js
+
+### Deployment
+
+* Vercel
+
+---
+
+## 📂 Project Structure
+
+```text
+src/
+├── app/
+├── components/
+├── sections/
+├── hooks/
+├── lib/
+├── data/
+├── assets/
+├── styles/
+└── types/
+```
+
+---
+
+## 🎯 Goals
+
+* Build a premium developer portfolio
+* Showcase frontend development skills
+* Demonstrate advanced animations
+* Create immersive 3D experiences
+* Achieve a Lighthouse score of 90+
+* Follow modern web development best practices
+
+---
+
+## 🚀 Getting Started
+
+### Clone the repository
+
+```bash
+git clone <repository-url>
+```
+
+### Navigate to the project
+
+```bash
+cd <project-name>
+```
+
+### Install dependencies
+
+```bash
+npm install
+```
+
+### Start the development server
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open your browser and visit:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```text
+http://localhost:3000
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 📦 Build for Production
 
-To learn more about Next.js, take a look at the following resources:
+```bash
+npm run build
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## ▶️ Start Production Server
 
-## Deploy on Vercel
+```bash
+npm run start
+```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 🧪 Code Quality
+
+```bash
+npm run lint
+```
+
+---
+
+## 📈 Performance Goals
+
+* Lighthouse Performance ≥ 90
+* Lighthouse Accessibility ≥ 95
+* Lighthouse Best Practices ≥ 95
+* Lighthouse SEO ≥ 95
+
+---
+
+## 📋 Roadmap
+
+* [ ] Landing Page
+* [ ] Hero Section
+* [ ] About Section
+* [ ] Skills Section
+* [ ] Experience Timeline
+* [ ] Projects Showcase
+* [ ] Project Details
+* [ ] Contact Form
+* [ ] Resume Download
+* [ ] GSAP Animations
+* [ ] Three.js Interactive Scene
+* [ ] Dark Mode
+* [ ] SEO Optimization
+* [ ] Performance Optimization
+* [ ] Accessibility Improvements
+* [ ] Deployment
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+## 👨‍💻 Author
+
+**Prodip Kumar Shil**
+
+Frontend Developer passionate about building modern, interactive, and performant web experiences.
